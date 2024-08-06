@@ -64,7 +64,7 @@ export type Data = {
   bgImg: string;
   title: string;
   description: string;
-  location: string;
+  location: number;
 };
 
 export type CurrentSlideData = {
