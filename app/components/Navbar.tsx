@@ -1,7 +1,7 @@
 "use client";
 
 const Navbar = () => {
-  return <div>off</div>;
+  return <div>RIAN / FILMES</div>;
 };
 
 export default Navbar;
